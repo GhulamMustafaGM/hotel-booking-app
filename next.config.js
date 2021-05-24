@@ -6,7 +6,7 @@ module.exports = {
         STRIPE_API_KEY: ' ',
         STRIPE_SECRET_KEY: ' ',
 
-        STRIPE_WEBHOOK_SECRET: 'whsec_2KX5p6VLfvTsRHZv4dclcLjW7ATWilQt',
+        STRIPE_WEBHOOK_SECRET: ' ',
 
         CLOUDINARY_CLOUD_NAME: 'hotel-booking',
         CLOUDINARY_API_KEY: ' ',
@@ -19,7 +19,7 @@ module.exports = {
         SMTP_FROM_EMAIL: "noreply@bookit.com",
         SMTP_FROM_NAME: "BookIT",
 
-        NEXTAUTH_URL: 'https://bookit.vercel.app',
+        NEXTAUTH_URL: ' ',
     },
     images: {
         domains: ['res.cloudinary.com'],
