@@ -3,6 +3,8 @@ import validator from 'validator'
 import bcrypt from 'bcryptjs'
 import crypto from 'crypto'
 
+// created user model
+
 const userSchema = new mongoose.Schema({
     name: {
         type: String,
