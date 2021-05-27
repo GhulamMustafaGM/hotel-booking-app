@@ -2,6 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 
+// created RoomItem
 const RoomItem = ({ room }) => {
     return (
         <div className="col-sm-12 col-md-6 col-lg-3 my-3">
