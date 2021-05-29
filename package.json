@@ -13,6 +13,7 @@
     "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.25.1",
+    "easyinvoice": "^1.0.127",
     "next": "10.2.2",
     "next-connect": "^0.10.1",
     "react": "17.0.2",
