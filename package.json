@@ -36,6 +36,7 @@
     "react-toastify": "^5.5.0",
     "redux": "^4.1.0",
     "redux-devtools-extension": "^2.13.9",
+    "stripe": "^8.156.0",
     "toastify": "^2.0.1"
   }
 }

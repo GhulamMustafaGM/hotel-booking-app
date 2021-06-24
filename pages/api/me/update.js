@@ -12,6 +12,6 @@ dbConnect();
 
 handler
     .use(isAuthenticatedUser)
-    .put(updateProfile)
+    .put(updateProfile) 
 
 export default handler;
